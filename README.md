@@ -1,0 +1,2 @@
+# AI-and-IOT-based-Baby-Monitoring-System
+In today’s world, parents are coming across infant injuries that are happening every now and then. This is because of lack of parent’s attention on their infants.The most common cause of infant injury is falls, which account for more than 50% of all seriously injured children. Beds are linked to the most injuries up to age of 16 months, mostly because infants fall, roll, or slide off them. 
